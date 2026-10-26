@@ -20,7 +20,8 @@ function App() {
      <hr/>
      <h1>TASK 2 : PROPS DRILLING</h1>
      <br/>
-     <StudentInfo name='Arpit Sangamnerkar'
+     <StudentInfo sname='Arpit Sanagmnerkar' cname ='PGCP-Advanced Computing' center='CDAC, Bangalore Campus' batch='August -2026'
+     dob='12 July 2001' passedYear ='2023 August' />
     </>
   )
 }
